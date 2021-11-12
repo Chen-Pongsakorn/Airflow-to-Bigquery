@@ -20,3 +20,6 @@
 3. Add code and requirments.
 4. Deploy Cloud Function.
 5. Set Cloud Scheduler to run function everyday.
+
+# Example data in Bigquery
+![console](img/Example_data.png?raw=true)
